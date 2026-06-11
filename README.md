@@ -1,4 +1,4 @@
-# Agentic AI Embedded Red Team Evidence Engineer
+# Embedded Red Team Evidence Engineer for Agentic AI / LLM Security
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d22430ed-2b2d-4434-81ce-59748f7104c2" />
 
